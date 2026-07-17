@@ -26,7 +26,7 @@ Python 3.8+: Ensure you have Python 3.8 or higher installed.
 Installation
 Clone this repository:
 
-git clone https://github.com/Shubhamsaboo/awesome-llm-apps
+
 cd starter_ai_agents/ai_blog_to_podcast_agent
 Install the required Python packages:
 
